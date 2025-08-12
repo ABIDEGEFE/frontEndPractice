@@ -1,0 +1,8 @@
+body {
+    background-color: blueviolet;
+    font-family: Arial, sans-serif;
+    /* margin: 0; */
+    padding: 50px;
+    border: yellow 5px solid;
+    height: 100vh;
+}
